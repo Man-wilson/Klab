@@ -1,0 +1,22 @@
+.main {
+    background-color: aliceblue;
+    display: flex;
+    height: auto;
+    width: auto;
+    padding: 0;
+    margin: 100px;
+};
+
+.sub {
+    background-color: rgb(12, 12, 235);
+    width: 50%;
+};
+
+.main2 {
+    background-color: black;
+    width: 50%;
+};
+
+.static {
+    background-color: black;
+}
